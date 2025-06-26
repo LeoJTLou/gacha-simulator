@@ -1,0 +1,39 @@
+.banner-button-group button {
+  font-size: 18pt;
+  margin: 10px;
+  padding: 15px;
+}
+
+.gacha-banner {
+  display: flex;
+  margin: 0 auto;
+  width: 1280px;
+  height: 720px;
+  justify-content: space-between;
+  border: 1px solid #000;
+  font-size: 32pt;
+  flex-direction: column;
+}
+
+.gacha-banner h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  text-align: center;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: flex-end; /* aligns buttons to the right */
+  margin-top: auto;          /* pushes this div to the bottom */
+  gap: 10px;
+  padding: 10px;
+}
+
+.button-wrapper button {
+  padding: 15px;
+  padding-right: 35px;
+  padding-left: 35px;
+  font-weight: bold;
+}
