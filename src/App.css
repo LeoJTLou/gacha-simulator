@@ -7,8 +7,8 @@
 .gacha-banner {
   display: flex;
   margin: 0 auto;
-  width: 1280px;
-  height: 720px;
+  max-width: 1280px;
+  max-height: 720px;
   justify-content: space-between;
   border: 1px solid #000;
   font-size: 32pt;
