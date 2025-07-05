@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gacha-simulator/static/css/main.c7aa9150.css",
+    "main.js": "/gacha-simulator/static/js/main.cb759087.js",
+    "index.html": "/gacha-simulator/index.html",
+    "main.c7aa9150.css.map": "/gacha-simulator/static/css/main.c7aa9150.css.map",
+    "main.cb759087.js.map": "/gacha-simulator/static/js/main.cb759087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7aa9150.css",
+    "static/js/main.cb759087.js"
+  ]
+}
